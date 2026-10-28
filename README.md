@@ -53,3 +53,7 @@ Buka `public/index.html` di browser. Tidak perlu install apa pun, tapi halaman E
 - **Tambah template caption:** tambahkan entri baru di objek `templates` di `public/js/form.js`, lalu tambahkan `<option>` dengan `value` yang sama di `public/form.html`.
 - **Ubah batas validasi:** edit objek `rules` di `public/js/form.js`.
 - **Tambah halaman baru:** tambahkan link di `<nav>` pada setiap file HTML, dan beri `aria-current="page"` pada link halaman yang sedang aktif.
+
+Hasil nya
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/55ff36ad-0f1f-4cc3-a4be-6aaf63ee3447" />
+
